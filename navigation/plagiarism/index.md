@@ -10,12 +10,10 @@ lxdData:
   Title: "Modules on Plagiarism"
   Description: "Explore this sequence of lessons and workshop to obtain anti-plagiarism mastery certificate"
   Prequisites:
-    - title: "Research Foundations"
-      link: "/english/research/foundation"
-    - title: "Video Overview"
-      link: "/english/research/foundation/video"
+    - title: "Why source ©?"
+      link: "/english/plagiarism/introduction"
   Topics:
-    - Title: "Why Plagiarism Matters"
+    - Title: "Plagiarism Case Studies"
       Genre: "Plagiarism"
       Level: 1
       Description: "Explore real-world events showing the impact of plagiarism on students, professionals, and society."

@@ -7,8 +7,8 @@ description: >
 author: John Mortensen
 permalink: /english/plagiarism
 lxdData:
-  Title: "Modules on Plagiarism"
-  Description: "Explore this sequence of lessons and workshop to obtain anti-plagiarism mastery certificate"
+  Title: "Learning Modules"
+  Description: "Explore this sequence of lessons and workshops to obtain anti-plagiarism mastery certificate"
   Prequisites:
     - title: "Why source ©?"
       link: "/english/plagiarism/introduction"
@@ -22,7 +22,7 @@ lxdData:
       Lessons: "/plagiarism/1"
       Image: "/images/plagiarism/why-matters.svg"
       Alt: "Plagiarism consequences"
-    - Title: "APA Citation Workshop"
+    - Title: "APA Citation Overview Session"
       Genre: "Citation"
       Level: 2
       Description: "Learn the essentials of APA citation style, including in-text citations and reference lists, through interactive examples."
@@ -31,7 +31,7 @@ lxdData:
       Lessons: "/plagiarism/2"
       Image: "/images/plagiarism/apa-citation.svg"
       Alt: "APA citation example"
-    - Title: "Practice: Correct the Errors"
+    - Title: "APA Citation Practice Session"
       Genre: "Practice"
       Level: 3
       Description: "Identify and correct citation and plagiarism errors in sample student work."
@@ -40,7 +40,7 @@ lxdData:
       Lessons: "/plagiarism/3"
       Image: "/images/plagiarism/correct-errors.svg"
       Alt: "Correct citation errors"
-    - Title: "Small Group Workshop"
+    - Title: "APA Citation Workshop"
       Genre: "Collaboration"
       Level: 4
       Description: "Work in small groups to review, discuss, and improve sample assignments for proper citation and academic honesty."
@@ -58,10 +58,10 @@ lxdData:
       Lessons: "/plagiarism/5"
       Image: "/images/plagiarism/mastery.svg"
       Alt: "Mastery quiz"
-    - Title: "Summary & Certificate"
+    - Title: "Mastery Certificate"
       Genre: "Summary"
       Level: 6
-      Description: "Review key takeaways and receive your anti-plagiarism mastery certificate."
+      Description: "Review key takeaways these modules and receive your APA citations (anti-plagiarism) mastery certificate."
       Categories: ["Summary", "Certificate", "Completion"]
       Video: "/plagiarism/6/summary"
       Lessons: "/plagiarism/6"

@@ -39,7 +39,7 @@
     <ul class="flex flex-wrap gap-4 justify-center">
     {% for prereq in page.lxdData.Prequisites %}
       <li>
-        <a href="{{ prereq.link }}" class="iridescent flex-1 text-white text-white text-center py-2 rounded-lg font-semibold transition">
+        <a href="{{ site.baseurl}}/{{ prereq.link }}" class="iridescent flex-1 text-white text-white text-center py-2 rounded-lg font-semibold transition">
           {{ prereq.title }}
         </a>
       </li>
@@ -91,7 +91,7 @@
               </div>
             </div>
             <div class="flex gap-2">
-              <a href="{{ topic.Lessons }}" class="iridescent flex-1 text-white text-center py-2 rounded-lg font-semibold transition">Lessons</a>
+              <a href="{{ site.baseurl }}/{{ topic.Lessons }}" class="iridescent flex-1 text-white text-center py-2 rounded-lg font-semibold transition">Lessons</a>
               <a href="{{ topic.Video }}" class="iridescent flex-1 text-white text-center py-2 rounded-lg font-semibold transition">Play Video</a>
             </div>
           </div>

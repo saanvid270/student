@@ -22,7 +22,7 @@ lxdData:
       Categories: ["Cases", "Real-world", "Consequences"]
       Video: "/plagiarism/1/video"
       Lessons: "/plagiarism/1"
-      Image: "/images/events.png"
+      Image: "/images/plagiarism/why-matters.svg"
       Alt: "Plagiarism consequences"
     - Title: "APA Citation Workshop"
       Genre: "Citation"
@@ -31,7 +31,7 @@ lxdData:
       Categories: ["APA", "Citation", "Academic Writing"]
       Video: "/plagiarism/2/apa-citation"
       Lessons: "/plagiarism/2"
-      Image: "/images/apa_citation.png"
+      Image: "/images/plagiarism/apa-citation.svg"
       Alt: "APA citation example"
     - Title: "Practice: Correct the Errors"
       Genre: "Practice"
@@ -40,7 +40,7 @@ lxdData:
       Categories: ["Practice", "Editing", "Plagiarism Detection"]
       Video: "/plagiarism/3/practice"
       Lessons: "/plagiarism/3"
-      Image: "/images/correct_errors.png"
+      Image: "/images/plagiarism/correct-errors.svg"
       Alt: "Correct citation errors"
     - Title: "Small Group Workshop"
       Genre: "Collaboration"
@@ -49,7 +49,7 @@ lxdData:
       Categories: ["Workshop", "Collaboration", "Peer Review"]
       Video: "/plagiarism/4/group"
       Lessons: "/plagiarism/4"
-      Image: "/images/group_workshop.png"
+      Image: "/images/plagiarism/group-workshop.svg"
       Alt: "Small group collaboration"
     - Title: "Mastery Check"
       Genre: "Assessment"
@@ -58,7 +58,7 @@ lxdData:
       Categories: ["Assessment", "Quiz", "Mastery"]
       Video: "/plagiarism/5/mastery"
       Lessons: "/plagiarism/5"
-      Image: "/images/mastery_check.png"
+      Image: "/images/plagiarism/mastery.svg"
       Alt: "Mastery quiz"
     - Title: "Summary & Certificate"
       Genre: "Summary"
@@ -67,7 +67,7 @@ lxdData:
       Categories: ["Summary", "Certificate", "Completion"]
       Video: "/plagiarism/6/summary"
       Lessons: "/plagiarism/6"
-      Image: "/images/certificate.png"
+      Image: "/images/plagiarism/certificate.svg"
       Alt: "Certificate of completion"
 ---
 {%- include tailwind/lxd.html -%}

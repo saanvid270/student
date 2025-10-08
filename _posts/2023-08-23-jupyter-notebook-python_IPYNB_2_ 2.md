@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Instructor - Jupyter Notebooks PY Hacks
+title:  Instructor - Jupyter Notebooks Verification Hacks 
 description: GitHub pages was built with Python and Jupyter Notebooks in mind.  This post is to verify tools by using Python.
 categories: ['Python']
-menu: nav/tools_setup.html
 toc: True
 permalink: /python/jupyter
 ---
